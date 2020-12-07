@@ -1,17 +1,4 @@
----
-title: "Tuto Package R"
-author: "mathiasdacosta"
-date: "06/12/2020"
-output:
-  html_document:
-    df_print: paged
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## R Markdown
+## How to use CCarac
 
 Tutorial for the Package :
 
