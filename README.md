@@ -47,6 +47,8 @@ clust_summary_viz(km.res, data = iris.scaled)
 
 ```
 
+![](README_files/figures/summary.png)<!-- -->
+
 As you can see, it gives us a graphic output of the summary of the km.res object, linked to the original datas that we used for our kmeans. It is simply a way for us to visualize directly the informations provided by our initial object and our data.
 
 Let's visualize the clustering in 3D, by calling the clust_viz_3d function :
