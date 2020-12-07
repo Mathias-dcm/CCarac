@@ -156,8 +156,4 @@ dunn_index(km.res, data = iris.scaled)
 
 We can see that the Dunn index is around 0.02, which is pretty low. Remember that the Dunn index is between ]0 and +Inf[. We will surely have a better value of the Dunn index by increasing k. By fact, it is notable that this measure is kind of insensitive, and not perfectly efficient by itself in this case to judge our clustering quality.
 
-```{r, include=FALSE}
-# add this chunk to end of mycode.rmd
-file.rename(from="/Users/mohamedalmahditantaoui/Desktop/README.Rmd",
-to="README.md")
-```
+
