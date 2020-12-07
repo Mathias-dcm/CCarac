@@ -1,6 +1,4 @@
-## R Markdown
-
-Tutorial for the Package :
+## Tutorial for the CCrac Package :
 
 
 Load all the packages needed
