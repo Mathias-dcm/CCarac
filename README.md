@@ -68,7 +68,7 @@ We can find a contingency table of the true classification and the clustering re
 ```{r}
 clust_class_viz(km.res, true_class)
 ```
-
+![](README_files/figures/clust_class_viz.png)<!-- -->
 
 Now, let's go ahead for the matching measures, by calling the matching measures function with the same parameters as before. Just as an example, let's take a look to the parameters of the next two functions. In fact, they are giving the same results, we can compute any one you want, as long as the features are provided. Indeed, if you are writing the object, the script will automatically find the clusters inside the object if those exists. It means that in contrary, you can write object = NULL if you are writing by yourself the clusters as the third parameter. It gives :
 
